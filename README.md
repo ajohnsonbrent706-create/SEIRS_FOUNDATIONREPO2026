@@ -24,8 +24,6 @@ Deployment	Public IPv4 address	Connection method	Screenshot	Instance terminated?
 3	YOUR_IP_3	EC2 Connect / SSH	screenshots/deployment-3.png	Yes / No
 Screenshot guidance: Capture the SSH terminal and dashboard; include the instance's public IPv4 in your written explanation or an accompanying AWS Console screenshot. A terminal dashboard alone may not display the public IP. Do not expose private keys, passwords, AWS access keys, tokens, or other secrets.
 
-Suggested GitHub submission structure
-
 seir-foundations-homework/
 └── module1/
     └── lab0_basics/
@@ -34,7 +32,6 @@ seir-foundations-homework/
             ├── deployment-1.png
             ├── deployment-2.png
             └── deployment-3.png
-In your submission README, include:
 
 The completed evidence table with three distinct public IPv4 addresses.
 One short paragraph per deployment describing the launch, SSH connection, and dashboard.
